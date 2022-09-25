@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lishan Qiu
-- 👀 I’m interested in movies, pop music and reading.
-- 🌱 I’m currently learning Android development and Python.
+- 👀 I’m an Android Developer.
+- 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: yozyyyqls@gmail.com
 
 <!---
