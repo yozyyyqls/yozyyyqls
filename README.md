@@ -4,12 +4,20 @@
   Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </h1>
 
-<h1 align="center">About me 😺</h1>
+<h2 align="center">About me 😺</h1>
 
 - 👋 Hi, I’m Lishan Qiu
 - 👀 I’m an Android Developer.
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: yozyyyqls@gmail.com
+
+<h2 align="center">Technologies & Tools 🔧</h1>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<h2 align="center">Github Stats 📈</h1>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozyyyqls&langs_count=3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
