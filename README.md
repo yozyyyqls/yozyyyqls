@@ -1,3 +1,9 @@
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png" alt="Header" title="Header" style="max-width: 100%;">
+
+<h1>
+  Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</h1>
+
 <h1 align="center">About me 😺</h1>
 
 - 👋 Hi, I’m Lishan Qiu
