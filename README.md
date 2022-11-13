@@ -6,7 +6,7 @@
 
 <h2 align="center">About me 😺</h1>
 
-- 👋 Hi, I’m Lishan Qiu
+- 👋 Hi, I’m Shelley Qiu
 - 👀 I’m an Android Developer.
 - 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: yozyyyqls@gmail.com
