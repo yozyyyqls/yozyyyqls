@@ -7,8 +7,8 @@
 <h2 align="center">About me 😺</h1>
 
 - 👋 Hi, I’m Shelley Qiu
-- 👀 I’m an Android Developer.
-- 🌱 I’m currently learning Kotlin.
+- 👀 I’m an Android Developer(Entry Level).
+- 🌱 I’m currently learning Android development and Kotlin.
 - 📫 How to reach me: yozyyyqls@gmail.com
 
 </br>
