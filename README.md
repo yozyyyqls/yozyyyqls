@@ -7,14 +7,15 @@
 <h2 align="center">About me 😺</h1>
 
 - 👋 Hi, I’m Shelley Qiu
-- 👀 I’m an Android Developer(Entry Level).
-- 🌱 I’m currently learning Android development and Kotlin.
+- 👀 I’m an Android Developer.
+- 🌱 I’m currently learning Jetpack Compose and Kotlin. I love creating wonderful views in Android development and studying new things about UX.
 - 📫 How to reach me: yozyyyqls@gmail.com
 
 </br>
 <h2 align="center">Technologies & Tools 🔧</h1>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
