@@ -1,4 +1,4 @@
-<img src="https://github.com/yozyyyqls/yozyyyqls/blob/main/github-header-image.png" alt="Header" title="Header" style="max-width: 100%;">
+<img src="https://github.com/yozyyyqls/yozyyyqls/blob/main/github-banner.png" alt="Header" title="Header" style="max-width: 100%;">
 
 <h1 align="center">
   Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
