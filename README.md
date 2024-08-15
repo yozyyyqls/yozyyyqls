@@ -22,13 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
 </br>
-<h2 align="center">Github Stats 📈</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yozyyyqls&langs_count=3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yozyyyqls&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 yozyyyqls/yozyyyqls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
