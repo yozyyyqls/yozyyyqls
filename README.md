@@ -6,7 +6,7 @@
 
 <h2 align="center">About me 😺</h1>
 
-- 👋 Hi, I’m Shelley Qiu
+- 👋 Hi, I’m Lishan Qiu. You can call me Allison.
 - 👀 I’m an Android Developer.
 - 🌱 I’m currently learning Jetpack Compose and Kotlin. I love creating wonderful views in Android development and studying new things about UX.
 - 📫 How to reach me: yozyyyqls@gmail.com
