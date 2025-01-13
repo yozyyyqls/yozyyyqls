@@ -1,12 +1,12 @@
 <img src="https://github.com/yozyyyqls/yozyyyqls/blob/main/github-banner.png" alt="Header" title="Header" style="max-width: 100%;">
 
 <h1 align="center">
-  Hello, folks!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  Hello, everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </h1>
 
 <h2 align="center">About me 😺</h1>
 
-- 👋 Hi, I’m Lishan Qiu. You can call me Allison.
+- 👋 Hi, I’m Chiu. You can call me Allison.
 - 👀 I’m an Android Developer.
 - 🌱 I’m currently learning Jetpack Compose and Kotlin. I love creating wonderful views in Android development and studying new things about UX.
 - 📫 How to reach me: yozyyyqls@gmail.com
